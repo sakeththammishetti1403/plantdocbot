@@ -34,7 +34,6 @@ Prerequisites~
 1. Environment Setup<br>
 
 #Clone the repository
-git clone [https://github.com/springboardmentor987p/PlantDocBot/tree/intern-HarshKumarDubey/Project]
 cd plantdocbot
 
 #Create a Virtual Environment
